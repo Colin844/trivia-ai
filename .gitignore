@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environnements
+.env*
+
+# Bases de données
+*.sqlite
+
+# Build
+/dist
+/build
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite
